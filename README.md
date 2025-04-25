@@ -31,6 +31,13 @@ I’d be happy to help!
 
 ---
 
+## 📺 Watch the Demo Video:
+
+Check out the demo of this tool in action!  
+[Watch the Demo Video on YouTube](https://youtu.be/2AlrNmGm9Dg)
+
+---
+
 ## ⚠️ Disclaimer
 
 This tool is for **educational and diagnostic** purposes only.  
